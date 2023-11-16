@@ -14,4 +14,4 @@ The docs are in each repository separately, and here as well for the global stuf
 
 ## 🍿 Fun facts
 
-Growing Roots is just a long name for  🍃 G r o o t 🍃  the goat.
+Growing Roots is just a long name for  🌱 G r o o t 🌱  the goat.
